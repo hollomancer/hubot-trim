@@ -1,5 +1,4 @@
 # hubot-trim
-
 use /trim command to shorten URLs with tr.im
 
 See [`src/trim.coffee`](src/trim.coffee) for full documentation.
@@ -22,3 +21,5 @@ Then add **hubot-trim** to your `external-scripts.json`:
 user1>> hubot hello
 hubot>> hello!
 ```
+=======
+Hubot module to shorten URLs with tr.im
